@@ -1,0 +1,21 @@
+{
+	"comment" : "Example expansions for (Multi)Markdown syntax elements",
+	"expansions" : [
+		{
+			"key" : ".l",
+			"expansion" : "[%|](%clipboard)%|"
+		},
+		{
+			"key" : ".lr",
+			"expansion" : "[%replaced](%clipboard)%|"
+		},
+		{
+			"key" : ".i",
+			"expansion" : "![%|](%clipboard)%|"
+		},
+		{
+			"key" : ".ir",
+			"expansion" : "![%replaced](%clipboard)%|"
+		}
+	]
+}

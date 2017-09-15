@@ -1,0 +1,29 @@
+{
+	"comment" : "Some example typo corrections",
+	"expansions" : [
+		{
+			"key" : "teh",
+			"expansion" : "the"
+		},
+		{
+			"key" : "Teh",
+			"expansion" : "The"
+		},
+		{
+			"key" : "taht",
+			"expansion" : "that"
+		},
+		{
+			"key" : "Taht",
+			"expansion" : "That"
+		}
+		{
+			"key" : "waht",
+			"expansion" : "what"
+		},
+		{
+			"key" : "Waht",
+			"expansion" : "What"
+		}
+	]
+}

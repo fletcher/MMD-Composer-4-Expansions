@@ -1,0 +1,21 @@
+{
+	"comment" : "Some date/time related expansions",
+	"expansions" : [
+		{
+			"key" : ".date",
+			"expansion" : "%B %e, %Y"
+		},
+		{
+			"key" : ".ds",
+			"expansion" : "%Y-%m-%d"
+		},
+		{
+			"key" : ".dts",
+			"expansion" : "%Y-%m-%d %I:%M%p"
+		},
+		{
+			"key" : ".dt",
+			"expansion" : "%m/%d/%Y %H:%M:%S"
+		}
+	]
+}
