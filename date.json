@@ -11,11 +11,11 @@
 		},
 		{
 			"key" : ".dts",
-			"expansion" : "%Y-%m-%d %I:%M%p"
+			"expansion" : "%Y-%m-%d %H:%M:%S"
 		},
 		{
 			"key" : ".dt",
-			"expansion" : "%m/%d/%Y %H:%M:%S"
+			"expansion" : "%m/%d/%Y %I:%M%p"
 		}
 	]
 }
